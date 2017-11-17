@@ -1,0 +1,10 @@
+nhk.004.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
+nhk.005.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
+nhk.010.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
+nhk.016.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
+nhk.017.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
+nhk.027.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
+nhk.034.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
+nhk.047.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
+nhk.050.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
+nhk.069.Fudoki.mp4 filter=lfs diff=lfs merge=lfs -text
